@@ -1,0 +1,13 @@
+{
+    "name": "lv_interface",
+    "type": "drupal-module",
+    "description": "Interface between frontend and drupal.",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/lv_interface",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/lv_interface",
+        "source": "http://cgit.drupalcode.org/lv_interface",
+    },
+}

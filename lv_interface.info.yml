@@ -1,0 +1,5 @@
+name: 'LV Interface'
+type: module
+description: 'Interface between frontend and drupal.'
+core: 9.x
+package: 'LV'
